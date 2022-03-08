@@ -15,19 +15,35 @@ adj.
 
 【Para.1】SIX DAYS a week not much happens in Challapata, but every Sunday the town’s main square fills with Japanese cars. Few, if any, have licence plates. They are chutos, or contraband cars. Most have been shipped from Japan to Chile, and then smuggled in.
 
+Few, if any:几乎没有（如果有的话）
+licence:n.许可证;执照;放肆;放纵;放荡;纵欲;淫乱  v.许可；发许可证[执照]
+plates:n.盘子;碟子;一盘所盛之量;一盘;一道主菜  v.电镀(尤指镀金、镀银);为…加设护板;(用金属板等)覆盖
+shipped:v 船运;运输;运送;上市;把…推向市场;舷侧进水
+smuggled:v 走私;私运;偷运
 
 
 【Para.2】Perhaps 25,000 chutos enter Bolivia a year; around 60,000 cars are imported legally. The business took off in 2008, when the government banned imports of cars of more than five years old. The old bangers continued to clatter in, illegally.
 
-
+bangers:香肠;破旧的汽车;爆竹;鞭炮
+clatter:n.卡嗒声;哗啦声;嘁嘁喳喳的谈笑声;咔哒声  vi.(硬物相碰)发出响亮的撞击声;移动发出(像硬物碰撞)的响声
 
 【Para.3】The fair in Challapata is the biggest in the country. The chuteros make little attempt to hide themselves. Mechanics fix suspension wrecked by the drive over the mountains from Chile; others move steering wheels from right to left. Chutos are advertised on Facebook, along with fake licence plates. Younger chuteros post videos of themselves on TikTok, a video-sharing app, racing over the salt flats, set to their own music genre, chutocumbia, in which singers croon about the hardship they endure to feed their families.
 
-
+suspension:暂停;暂令停职(或停学、停赛等);暂缓;推迟;延期;(车辆减震用的)悬架;悬浮液
+wrecked:失事的;遇难的;毁坏的;喝得烂醉  v.破坏;损坏;毁坏;毁灭;毁掉;使(船舶)失事;使遇难;使下沉
+steering:n. (车辆等的)转向装置;  v. 驾驶(船、汽车等);掌控方向盘;行驶;操纵;控制;引导;  
+Mechanics:机械工程;   作法;   機械學;   结构力学;   力学系;  
+the salt flats:盐滩
+music genre:音乐流派;音乐类型;音乐风格;曲风;音乐文类
+croon:低声哼唱  n.低唱[哼]；单调的哼歌曲声；低声哼的感伤性流行歌曲
+endure:忍耐;忍受;持续;持久
 
 【Para.4】The government has tried to beef up controls along the border with Chile. But Bolivia is poor and the border is long; the flow of chutos has not abated. Smugglers say they pay $100 a car for border guards to look away. Police who catch a chuto inside Bolivia can be bribed, too.
 
-
+beef up:增加;   加强;   改进;   提高; 
+border:n. 边境;   边界;   边疆;   国界;   边界地区;   镶边;   包边;   (草坪边等的)狭长花坛;  vt. 和…毗邻;   与…接壤;   沿…的边;   环绕…;   给…镶边;  
+border guards:边防卫士;   边防军;  
+bribed: n. 贿赂;  vt. 向(某人)行贿;   贿赂;  
 
 【Para.5】A chuto costs around half or even a third as much as a legally imported car. Buyers avoid not only import tariffs, but also an annual road tax. The government is wary of cracking down, mostly because of the sheer number of people who would be affected.
 
